@@ -1,6 +1,6 @@
 {
   "name": "react-plural",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "react plural functon for declensions based on numbers",
   "license": "MIT",
   "repository": "zalash333/react-plural",
@@ -21,7 +21,7 @@
     "name": "zalash333",
     "email": "zalash1993@gmail.com"
   },
-  "homepage": "https://github.com/piyushswain/react-rails-pagination",
+  "homepage": "https://github.com/zalash333/react-plural",
   "scripts": {
     "build": "microbundle-crl --no-compress --format modern,cjs",
     "start": "microbundle-crl watch --no-compress --format modern,cjs",
